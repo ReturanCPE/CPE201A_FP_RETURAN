@@ -1,0 +1,22 @@
+Kashmir Kieth R. Returan
+CPE11S4
+CPE007: Final Project Reflection Paper
+Before I took the CPE007 course, my idea of Computer Engineering was very simple, like “oh it’s
+about computers so maybe it’s for me.” But honestly, I don’t really know the engineering part of it. I
+just chose the course because I’m interested in computers, especially hardware, but I’m unsure if I
+can really do engineering since it sounds hard and scary. I was curious but also confused because
+engineering feels like only super smart people can do it, but I still wanted to try because maybe I can
+learn something new or maybe I can handle it if I push myself.
+During the course, I learned that Computer Engineering is not only computer parts or fixing PCs, but
+also the design, development, and testing of computer systems, software, and networks. It also
+needs understanding of logic, architecture, and even human-computer interaction. I also learned
+that successful engineers are problem solvers, detail-oriented, creative, and always learning. Even
+though no specific lesson completely changed my whole perspective, the class still made me see that
+Computer Engineering is more complex and bigger than I first thought.
+After taking the course, even though I still struggle and feel like I’m not keeping up sometimes, I
+slowly understand more what Computer Engineering expects from a student. I realize I’m just not
+used to these tasks and workloads yet, but I can adapt little by little. I also became more aware of my
+skills, especially when I learned some C++ in another class. It gave me a small confidence boost that I
+can actually code and learn new things. Overall, the course helped me see that Computer
+Engineering is a challenging field, but it’s something I can grow into as long as I keep trying and don’t
+give up.
